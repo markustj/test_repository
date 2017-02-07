@@ -1,6 +1,6 @@
-create DATABASE IF NOT EXISTS vegan_donuts;
+create DATABASE IF NOT EXISTS donuts_now;
 
-use vegan_donuts;
+use donuts_now;
 
 drop table IF EXISTS menu;
 
