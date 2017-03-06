@@ -23,4 +23,4 @@ insert into menu values(7,  "Coffee Roll","","images/DSC01233.jpg",1);
 
 commit;
 
-GRANT ALL PRIVILEGES ON *.* to 'root'@'%' identified by 'ilikerandompasswords';
+GRANT ALL PRIVILEGES ON *.* to 'db_user'@'%' identified by 'P@ssw0rd123';
